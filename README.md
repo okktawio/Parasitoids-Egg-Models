@@ -1,2 +1,2 @@
 # Parasitoids-Egg-Models
-Hidden Markov Chain modelization of functional response and egg maduration in parasitoid insects.
+Hidden Markov Chain modelization of functional response and egg maturation in parasitoid insects.
